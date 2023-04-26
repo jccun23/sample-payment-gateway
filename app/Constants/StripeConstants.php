@@ -88,4 +88,9 @@ class StripeConstants
      * Payment intent parameter
      */
     public const PAYMENT_INTENT = 'payment_intent';
+
+    /**
+     * Url
+     */
+    public const URL = 'url';
 }
